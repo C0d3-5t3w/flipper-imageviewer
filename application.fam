@@ -1,0 +1,14 @@
+App(
+    appid="imageviewer",
+    name="App imageviewer",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="imageviewer_app",
+    stack_size=2 * 1024,
+    fap_category="Examples",
+    fap_version="0.1",
+    fap_icon="imageviewer.png",  # 10x10 1-bit PNG
+    fap_description="An image viewer for the Flipper Zero",
+    fap_author="C0d3-5t3w",
+    fap_weburl="https://github.com/C0d3-5t3w/flipper-imageviewer",
+    fap_icon_assets="images",  # Image assets to compile for this application
+)
