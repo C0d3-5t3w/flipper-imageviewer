@@ -2,6 +2,7 @@
 
 #include <gui/gui.h>
 #include <gui/view.h>
+#include <gui/elements.h>
 
 /**
  * @brief Add a view to the GUI

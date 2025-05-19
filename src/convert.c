@@ -1,5 +1,4 @@
 #include <furi.h>
-#include <furi/furi.h>
 #include <furi/core/core_defines.h>
 #include <furi/core/event_loop.h>
 #include <furi/core/event_loop_timer.h>

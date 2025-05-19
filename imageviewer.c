@@ -8,7 +8,7 @@
 #include <storage/storage.h>
 #include "src/gui.h"
 #include "src/extwalk.h"
-#include "src/gui_helper.h" // Added header for gui_add_view/remove_view
+#include "src/gui_helper.h"
 
 // Event flags for button input
 #define EVENT_MASK_BUTTONS (1U << 0U)
